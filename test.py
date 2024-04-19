@@ -1,3 +1,4 @@
 from subjects import Math
 
-print(Math())
+exam = Math()
+print(exam.get_topics())
